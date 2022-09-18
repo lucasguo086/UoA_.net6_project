@@ -9,4 +9,4 @@ This is UoA course project for providing RESTFul API for frontend use. In this p
   <li>Endpoint 6: MAKE A MOVE</li>
   <li>Endpoint 7: QUIT A GAME</li>
 </ul>
-<p>Authentication is carried out when endpoint 2,3,4,5,6,7 is called. The authentication method is Basic Authentication.</p>
+<p>Authentication is carried out when endpoint 2,3,4,5,6,7 is called. The authentication method is Basic Authentication. The guest should register and login if they want to access the resource.</p>
